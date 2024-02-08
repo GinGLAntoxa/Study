@@ -20,9 +20,9 @@ git commit -m "Message txt"
 git log
 ```
 
-Посмотреть лог в сокрощёном виде:
+Посмотреть лог в сокрощёном виде и просмотр веток:
 ```sh
-git log --oneline
+git log --oneline --graph
 ```
 
 Перемещения по веткам:
