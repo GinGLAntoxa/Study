@@ -48,3 +48,33 @@ git branch -d <имя_ветки>
 ```sh
 git merge <имя_ветки>
 ```
+
+Задания по этому репазиторий:
+```sh
+ https://github.com/gulden-geekbrains/version_control.git
+ ```
+
+ Создать клон:
+ ```sh
+ git clone<http.....>
+ ```
+
+ Поменять директорию:
+ ```sh
+ cd на windows<имя_папки>
+ ```
+
+ Как указать удолёный репозиторий:
+ ```sh
+ git remote add origin <https:.....>
+ ```
+
+Толкать или отправлять в интернет:
+```sh
+git push
+```
+
+Выкачивать все изменения или обноваить репозиторий:
+```sh
+git pull
+```
