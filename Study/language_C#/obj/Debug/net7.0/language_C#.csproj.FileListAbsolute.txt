@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\My folder\Study\language_C#\bin\Debug\net7.0\language_C#.exe
+C:\Users\user\Desktop\My folder\Study\language_C#\bin\Debug\net7.0\language_C#.deps.json
+C:\Users\user\Desktop\My folder\Study\language_C#\bin\Debug\net7.0\language_C#.runtimeconfig.json
+C:\Users\user\Desktop\My folder\Study\language_C#\bin\Debug\net7.0\language_C#.dll
+C:\Users\user\Desktop\My folder\Study\language_C#\bin\Debug\net7.0\language_C#.pdb
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\language_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\language_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\language_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\language_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\language_C#.dll
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\refint\language_C#.dll
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\language_C#.pdb
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\language_C#.genruntimeconfig.cache
+C:\Users\user\Desktop\My folder\Study\language_C#\obj\Debug\net7.0\ref\language_C#.dll
