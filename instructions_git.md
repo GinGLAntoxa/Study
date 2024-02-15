@@ -78,3 +78,8 @@ git push
 ```sh
 git pull
 ```
+
+Сохранить измениния в Git:
+```sh
+git push -u origin main
+```
