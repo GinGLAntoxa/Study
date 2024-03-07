@@ -4,22 +4,6 @@
 //Пример
 //“hello” => 2
 //“world” => 1
-static char[] StringToCharArray(string str)
-{
-    char[] charsArray = new char[str.Length];
-    for (int i = 0; i < charsArray.Length; i++)
-    {
-        charsArray[i] = str[i];
-    }
-    return charsArray;
-}
-void PrintArray(char[] arr)
-{
-    for (int i = 0; i < arr.Length; i++)
-    {
-        Console.Write($"{arr[i]} ");
-    }
-}
 static int GetCountValue(string str)
 {
     int count = 0;
